@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Filip Meštrović: Software Consultant]]></title><description><![CDATA[Personal website and blog]]></description><link>https://filip.software</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Mar 2020 00:21:59 GMT</lastBuildDate><item><title><![CDATA[Why you should consider using Linux for software development]]></title><description><![CDATA[Imagine, running your OS updates when you want to. Linux has emerged as the weapon of choice in almost all professional IT environments…]]></description><link>https://filip.software/why-you-should-consider-using-linux-for-software-development/</link><guid isPermaLink="false">https://filip.software/why-you-should-consider-using-linux-for-software-development/</guid><pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Imagine, running your OS updates when &lt;strong&gt;you&lt;/strong&gt; want to.&lt;/p&gt;
+&lt;p&gt;Linux has emerged as the weapon of choice in almost all professional IT environments,
+from small web servers to high-performance computing.
+And in recent years, even the desktop environments have gotten, kinda pretty actually.&lt;/p&gt;
+&lt;p&gt;I had the luck of coming across a Linux installation CD back when I was a kid.
+I had no idea what it was. It did have a cute yellow penguin etched onto it,
+but no &lt;code class=&quot;language-text&quot;&gt;setup.exe&lt;/code&gt; to run left me a little confused.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6806fa103793a178f75431ff3179b08f/29114/kde.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAACnElEQVQozyXQX0jUcADA8dFLoORDkGHhYwRRFkFKmQTlc5AQQS8KmZgERVYYoXRQQuUhlmJoZ5mVf8g0/5ao6fxzlH9ubrubu93Ou23edrvfdttt+21nkB0En9fvyxcZYq2hsD0QUJdpnhI1gge+LZEUAMEncB4wwAoCuM4rW8AUktDHgUFSjEiqJPBRSUG+R+GUsDNISn6KTjtpaDuKmlSTum6YKgA/JicnxycUWfYue/v6+ikCG/WL0yEQ3Y75xBQyFYVfGWsQF1cDDDB3FMMOysYMA3yShW+Gzl+rPlN2Yw0P3KmtO3rqbKenOwBgN65d7g7VjPAIyknvVrZXBB2ommXBP2knrhl+AUQSelLTUO/CDPoTKKC3/0u96xmKop4lruRtaF9L+MDrMLIR44MpnbN3TDttQMeBdkyzvJEkJVlpR4cSCsUFB6ovWjxXK2onx6fKh9g9TXS+J3Koi0N+ReNeToykIIR2RjqdjicAFmB4UZYk6U1HR2tbmyAI3T2f7z6oW5yfuzkSymoi8l6RB1s3ETQYXeMk1bRtaFvQ3t39G4sr6Dod5GSWDVdU3b5eUUX6A4/qXYUlpb2fPt76Ru99spTnXs91Y4gfmFQSspptZmILhjgx84mgGTLIkkxkgwqSNEuxkTWC+o351zeIS83TyMPZrPr5bNcy4ledgGpTKtzSHFzUD9d0ZZe351R25FR27q9+n39/4IRrrNg9XfRy+kj9aO69/nPu2bIe35UPvgutS4hfSlGSvimnGMXEYnqha/TY4+GChpHjDSMFrvHTjVPFzfOl7d6LrctFTXMnG2eeTmBjGDNMRJ6PryGrrIhxiUA8xagOrdhE3PgPz5BNXDYIYGaQCQNPmDgwMdlYDIuzND+/yf8DWcX1P89GqXAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;KDE Plasma&quot;
+        title=&quot;KDE Plasma&quot;
+        src=&quot;/static/6806fa103793a178f75431ff3179b08f/fcda8/kde.png&quot;
+        srcset=&quot;/static/6806fa103793a178f75431ff3179b08f/12f09/kde.png 148w,
+/static/6806fa103793a178f75431ff3179b08f/e4a3f/kde.png 295w,
+/static/6806fa103793a178f75431ff3179b08f/fcda8/kde.png 590w,
+/static/6806fa103793a178f75431ff3179b08f/efc66/kde.png 885w,
+/static/6806fa103793a178f75431ff3179b08f/c83ae/kde.png 1180w,
+/static/6806fa103793a178f75431ff3179b08f/29114/kde.png 1920w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;1. The Shell&lt;/h2&gt;
+&lt;p&gt;The scary black screen, the direct connection to &lt;a href=&quot;https://github.com/abishekvashok/cmatrix&quot;&gt;The Matrix™&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Using and learning the shell will make you pretty much invincible.
+You’ll be able to traverse, manage and debug various environments where
+your applications are deployed and actually know what you’re doing.&lt;/p&gt;
+&lt;h2&gt;2. Customization&lt;/h2&gt;
+&lt;p&gt;Applications developed for Linux tend to allow a lot of configuration.
+So go ahead, maximize your productivity and make it yours.
+I mean, just look at this &lt;a href=&quot;http://reddit.com/r/unixporn&quot;&gt;beauty&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Leaving everything on default is also an option.&lt;/p&gt;
+&lt;h2&gt;3. Speed&lt;/h2&gt;
+&lt;p&gt;One of the core Unix philosophies is to create programs that &lt;strong&gt;do one thing,
+and do it well&lt;/strong&gt;, not complicating by adding too many extra features.
+This helps the software to be more easily understood and optimized as time goes by.&lt;/p&gt;
+&lt;p&gt;Something I like pointing out is &lt;a href=&quot;https://www.principledtechnologies.com/Red%20Hat/RHEL6_IO_0613&quot;&gt;EXT4&lt;/a&gt;,
+the default file-system in most Linux distributions.
+Indexing and working with lots of small files (e.g., &lt;code class=&quot;language-text&quot;&gt;npm install&lt;/code&gt;) is noticeably faster.&lt;/p&gt;
+&lt;h2&gt;4. Privacy&lt;/h2&gt;
+&lt;p&gt;Open-source software respects your privacy. Most of the time, it has no hidden agenda, no tracking to “opt-out” of.
+It’s designed to do it’s job and nothing more.&lt;/p&gt;
+&lt;h2&gt;5. Developer heaven&lt;/h2&gt;
+&lt;p&gt;While still lacking in complete convenience for the casual user, developers are first-class citizens.
+Installing the tools you need to do your best work is usually only a command away.
+There’s a good chance you’ll find them in your distribution’s package repository.
+No need to go through an installer that slips in a toolbar or two.&lt;/p&gt;
+&lt;h2&gt;OK, how do I start?&lt;/h2&gt;
+&lt;p&gt;I am a big advocate of learning by doing. I encourage you to try installing a beginner friendly distribution
+like &lt;strong&gt;Mint&lt;/strong&gt; or &lt;strong&gt;Ubuntu&lt;/strong&gt;. You can use a virtual machine or a computer not critical to your daily work
+and then play around with it.&lt;/p&gt;
+&lt;p&gt;Break something, now is the best time to do so! Let me know how it went.&lt;/p&gt;</content:encoded></item></channel></rss>
