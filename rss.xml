@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Filip Meštrović: Software Consultant]]></title><description><![CDATA[Personal website and blog]]></description><link>https://filip.software</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Mar 2020 22:03:12 GMT</lastBuildDate><item><title><![CDATA[Why you should consider using Linux for software development]]></title><description><![CDATA[Imagine, running your OS updates when you want to. Linux has emerged as the weapon of choice in almost all professional IT environments…]]></description><link>https://filip.software/why-you-should-consider-using-linux-for-software-development/</link><guid isPermaLink="false">https://filip.software/why-you-should-consider-using-linux-for-software-development/</guid><pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Imagine, running your OS updates when &lt;strong&gt;you&lt;/strong&gt; want to.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Filip Meštrović: Software Consultant]]></title><description><![CDATA[Personal website and blog]]></description><link>https://filipmestrovic.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jul 2020 00:17:49 GMT</lastBuildDate><item><title><![CDATA[Coding isn't always the solution]]></title><description><![CDATA[We’re here to code, right? Right!? Well, yes and no. You’re usually part of a team, trying to solve a business problem.
+Naturally, when your…]]></description><link>https://filipmestrovic.com/coding-isnt-always-the-solution/</link><guid isPermaLink="false">https://filipmestrovic.com/coding-isnt-always-the-solution/</guid><pubDate>Wed, 08 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We’re here to code, right? Right!?&lt;/p&gt;
+&lt;p&gt;Well, yes and no.&lt;/p&gt;
+&lt;p&gt;You’re usually part of a team, trying to solve a business problem.
+Naturally, when your mind is very technical, you conclude that you must build a new microservice™. It’s not a big deal, since it’s just &lt;em&gt;micro&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;You sit down, get in the zone and can’t stop yourself. All those sweet auto-completes your IDE spurts out are too satisfying.&lt;/p&gt;
+&lt;p&gt;But is this always the appropriate response?&lt;/p&gt;
+&lt;h2&gt;Write less code&lt;/h2&gt;
+&lt;p&gt;Reinventing the wheel is dangerous. Something that seemed simple at first turns out to be a nightmare.
+Trying to effectively cover all edge cases could take you months, without counting the bugs.
+Before you know it, you could find yourself having to build a team around it.&lt;/p&gt;
+&lt;p&gt;Don’t be afraid to use existing solutions. This is how developer productivity keeps going up.
+Great libraries appear every day. Do your due diligence, discuss internally and make a decision.&lt;/p&gt;
+&lt;p&gt;If you’re part of a larger project, that team you interface with, but never actually talked to, might’ve solved it already!&lt;/p&gt;
+&lt;h2&gt;Write no code&lt;/h2&gt;
+&lt;p&gt;I hope you’re not compensated for the lines of code you write. If you are, stop reading this and get back to work!&lt;/p&gt;
+&lt;p&gt;This one was difficult for me, but revelations come in unexpected ways. I would find myself reading parts of elaborate specifications thinking:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“This makes no sense.“&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Our brains can get stuck in a certain mode of thinking. This is exactly why rubber ducking works so well. (Although, I have to admit, the duck gets little use, I just bother actual people.)&lt;/p&gt;
+&lt;p&gt;The trick here is to push through the fear of embarrassing yourself and dig deeper. So why not go ahead and ask:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Why are we doing this again?”&lt;/li&gt;
+&lt;li&gt;“Do we need this right now?”&lt;/li&gt;
+&lt;li&gt;“Are we sure our customers want this?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More often than I would’ve thought, we would end up redefining that part of the product for the better. In some cases even, a solution would pop up that didn’t involve coding &lt;strong&gt;at all&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Why you’re there&lt;/h2&gt;
+&lt;p&gt;To be able to contribute to a project effectively, understanding the big picture is crucial.&lt;/p&gt;
+&lt;p&gt;Probably the most important aspect is knowing who your customer is, what they value and how they’ll use your software.
+This will help you make the right design decisions and ultimately simplify your code.&lt;/p&gt;
+&lt;p&gt;When everyone is on board with the project’s mission, creativity and motivation flourish.
+Work together &lt;strong&gt;with&lt;/strong&gt; your stakeholders, and not in a vacuum, to make something your customers will love.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why you should consider using Linux for software development]]></title><description><![CDATA[Imagine, running your OS updates when you want to. Linux has emerged as the weapon of choice in almost all professional IT environments…]]></description><link>https://filipmestrovic.com/why-you-should-consider-using-linux-for-software-development/</link><guid isPermaLink="false">https://filipmestrovic.com/why-you-should-consider-using-linux-for-software-development/</guid><pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Imagine, running your OS updates when &lt;strong&gt;you&lt;/strong&gt; want to.&lt;/p&gt;
 &lt;p&gt;Linux has emerged as the weapon of choice in almost all professional IT environments,
 from small web servers to high-performance computing.
 And in recent years, even the desktop environments have gotten, kinda pretty actually.&lt;/p&gt;
@@ -7,7 +38,7 @@ I had no idea what it was. It did have a cute yellow penguin etched onto it,
 but no &lt;code class=&quot;language-text&quot;&gt;setup.exe&lt;/code&gt; to run left me a little confused.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -18,7 +49,7 @@ but no &lt;code class=&quot;language-text&quot;&gt;setup.exe&lt;/code&gt; to run
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAACnElEQVQozyXQX0jUcADA8dFLoORDkGHhYwRRFkFKmQTlc5AQQS8KmZgERVYYoXRQQuUhlmJoZ5mVf8g0/5ao6fxzlH9ubrubu93Ou23edrvfdttt+21nkB0En9fvyxcZYq2hsD0QUJdpnhI1gge+LZEUAMEncB4wwAoCuM4rW8AUktDHgUFSjEiqJPBRSUG+R+GUsDNISn6KTjtpaDuKmlSTum6YKgA/JicnxycUWfYue/v6+ikCG/WL0yEQ3Y75xBQyFYVfGWsQF1cDDDB3FMMOysYMA3yShW+Gzl+rPlN2Yw0P3KmtO3rqbKenOwBgN65d7g7VjPAIyknvVrZXBB2ommXBP2knrhl+AUQSelLTUO/CDPoTKKC3/0u96xmKop4lruRtaF9L+MDrMLIR44MpnbN3TDttQMeBdkyzvJEkJVlpR4cSCsUFB6ovWjxXK2onx6fKh9g9TXS+J3Koi0N+ReNeToykIIR2RjqdjicAFmB4UZYk6U1HR2tbmyAI3T2f7z6oW5yfuzkSymoi8l6RB1s3ETQYXeMk1bRtaFvQ3t39G4sr6Dod5GSWDVdU3b5eUUX6A4/qXYUlpb2fPt76Ru99spTnXs91Y4gfmFQSspptZmILhjgx84mgGTLIkkxkgwqSNEuxkTWC+o351zeIS83TyMPZrPr5bNcy4ledgGpTKtzSHFzUD9d0ZZe351R25FR27q9+n39/4IRrrNg9XfRy+kj9aO69/nPu2bIe35UPvgutS4hfSlGSvimnGMXEYnqha/TY4+GChpHjDSMFrvHTjVPFzfOl7d6LrctFTXMnG2eeTmBjGDNMRJ6PryGrrIhxiUA8xagOrdhE3PgPz5BNXDYIYGaQCQNPmDgwMdlYDIuzND+/yf8DWcX1P89GqXAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAACnElEQVQozyXQX0jUcADA8dFLoORDkGHhYwRRFkFKmQTlc5AQQS8KmZgERVYYoXRQQuUhlmJoZ5mVf8g0/5ao6fxzlH9ubrubu93Ou23edrvfdttt+21nkB0En9fvyxcZYq2hsD0QUJdpnhI1gge+LZEUAMEncB4wwAoCuM4rW8AUktDHgUFSjEiqJPBRSUG+R+GUsDNISn6KTjtpaDuKmlSTum6YKgA/JicnxycUWfYue/v6+ikCG/WL0yEQ3Y75xBQyFYVfGWsQF1cDDDB3FMMOysYMA3yShW+Gzl+rPlN2Yw0P3KmtO3rqbKenOwBgN65d7g7VjPAIyknvVrZXBB2ommXBP2knrhl+AUQSelLTUO/CDPoTKKC3/0u96xmKop4lruRtaF9L+MDrMLIR44MpnbN3TDttQMeBdkyzvJEkJVlpR4cSCsUFB6ovWjxXK2onx6fKh9g9TXS+J3Koi0N+ReNeToykIIR2RjqdjicAFmB4UZYk6U1HR2tbmyAI3T2f7z6oW5yfuzkSymoi8l6RB1s3ETQYXeMk1bRtaFvQ3t39G4sr6Dod5GSWDVdU3b5eUUX6A4/qXYUlpb2fPt76Ru99spTnXs91Y4gfmFQSspptZmILhjgx84mgGTLIkkxkgwqSNEuxkTWC+o351zeIS83TyMPZrPr5bNcy4ledgGpTKtzSHFzUD9d0ZZe351R25FR27q9+n39/4IRrrNg9XfRy+kj9aO69/nPu2bIe35UPvgutS4hfSlGSvimnGMXEYnqha/TY4+GChpHjDSMFrvHTjVPFzfOl7d6LrctFTXMnG2eeTmBjGDNMRJ6PryGrrIhxiUA8xagOrdhE3PgPz5BNXDYIYGaQCQNPmDgwMdlYDIuzND+/yf8DWcX1P89GqXAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
